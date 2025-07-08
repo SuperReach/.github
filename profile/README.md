@@ -1,9 +1,9 @@
 ![GitHub Profile Header 518x180](https://github.com/user-attachments/assets/6c422253-e2db-4ee5-a9a8-2ec26cbd663b)
 # Welcome
 
-Superreach is an AI-native operating system built for the new era of intelligent software — where agents replace static SaaS, interfaces are dynamic, and **most importantly, AI works for you**.
+Superreach is an AI-native operating system built for the new era of intelligent software - where agents replace static SaaS, interfaces are dynamic, and **most importantly, AI works for you**.
 
-We believe in giving contributors real power: to shape how modern software works, to build faster, and to be rewarded for the value they create. Superreach is open, extensible, and designed to scale with you. Inside these repos, you’ll find the open-source tools, SDKs, and components that power Superreach.
+We believe in giving contributors real power to **shape how modern software works, to build faster, and to be rewarded for the value they create.** Superreach is open, extensible, and designed to scale with you. Inside these repos, you’ll find the open-source tools, SDKs, and components that power Superreach all available for you to engage with.
 
 Whether you’re building intelligent workflows, crafting living apps, or extending the core Superreach platform; you’ll find what you need here.
 
@@ -17,9 +17,9 @@ Superreach is designed to help you build and ship intelligent software faster al
 
 ## Get started
 
-We’ll be publishing our open-source solutions very soon, so in the meantime:
+We’ll be publishing our open source solutions very soon, so in the meantime:
 
 - Visit [superreach.com](https://www.superreach.com) to learn more and join the waitlist  
 - Join our [Discord community](https://discord.gg/Tj5nFfY2RW) to meet contributors, ask questions, and get early visibility into what’s coming  
 
-We’re just getting started — and we can’t wait to see what you’ll create and contribute.
+We’re just getting started - and we can’t wait to see what you’ll create and contribute.
