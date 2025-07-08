@@ -1,3 +1,4 @@
+![GitHub Profile Header 518x180](https://github.com/user-attachments/assets/6c422253-e2db-4ee5-a9a8-2ec26cbd663b)
 # Welcome
 
 Superreach is an AI-native operating system built for the new era of intelligent software — where agents replace static SaaS, interfaces are dynamic, and **most importantly, AI works for you**.
