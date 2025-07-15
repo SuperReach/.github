@@ -1,4 +1,4 @@
-<img width="518" height="180" alt="GHHeader" src="https://github.com/user-attachments/assets/ae462b68-b7a5-4286-ba81-9f0efd14cfb7" />
+<img alt="GHHeader" src="https://github.com/user-attachments/assets/ae462b68-b7a5-4286-ba81-9f0efd14cfb7" />
 
 # Welcome
 
