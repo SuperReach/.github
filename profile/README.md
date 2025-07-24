@@ -1,4 +1,4 @@
-<img alt="GHHeader" src="https://github.com/user-attachments/assets/ae462b68-b7a5-4286-ba81-9f0efd14cfb7" />
+<img width="2072" height="720" alt="GitHubProfileHeader" src="https://github.com/user-attachments/assets/a3245bb4-1922-43d6-acb6-044f0f5049b3" />
 
 # Welcome
 
